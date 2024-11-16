@@ -5,9 +5,6 @@ public class Decrement {
      System.out.println("a++: " + i++);
      System.out.println("++a: " + ++i);
 
-     System.out.println("a--: " + i--);
-     System.out.println("--a: " + --i);
-
   }
   
 }
